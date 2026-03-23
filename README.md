@@ -3,6 +3,10 @@
 ## AIM
 To develop a convolutional autoencoder for image denoising application.
 
+## PROBLEM STATEMENT
+The problem is to design and develop a convolutional autoencoder model that can remove noise from corrupted images and reconstruct clean images. The model learns to map noisy input images to their original versions.
+
+The dataset consists of grayscale images where artificial noise is added during preprocessing, and the model is trained to recover the original images.
 
 ## DESIGN STEPS
 ### STEP 1: 
